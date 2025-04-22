@@ -1,6 +1,6 @@
 # HelloCharts for Android
 
-Charting library for Android compatible with API 8+(Android 2.2).
+Charting library for Android compatible with ~~API 8+(Android 2.2)~~.
 Works best when hardware acceleration is available, so API 14+(Android 4.0) is recommended.
 Apache License 2.0.
 
