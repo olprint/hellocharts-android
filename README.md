@@ -52,7 +52,7 @@ Apache License 2.0.
  
  ```groovy
 	dependencies{
- 		compile 'com.github.lecho:hellocharts-library:1.5.8@aar'
+ 		compile 'com.github.lecho:hellocharts-library:1.5.9@aar'
 	}
  ```
  
@@ -66,7 +66,7 @@ Apache License 2.0.
     }
 	
     dependencies {
-        compile 'com.github.lecho:hellocharts-android:v1.5.8'
+        compile 'com.github.olprint:hellocharts-android:v1.5.9'
     }
  ```
  
